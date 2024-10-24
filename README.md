@@ -1,3 +1,2 @@
 # Nmaap
-Este script verifica si Nmap está instalado en el sistema, y si no es así, lo instala automáticamente. A continuación, realiza un escaneo rápido de puertos en los equipos objetivo, seguido de un análisis más exhaustivo para obtener información detallada sobre ellos.
-Cualquier error sobre el script porfavor notificar para su posterior corrección.
+This script checks if Nmap is installed on the system, and if not, it automatically installs it. Then, it performs a quick port scan on the target machines, followed by a more thorough analysis to gather detailed information about them. Please report any issues with the script for future corrections
